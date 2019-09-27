@@ -11,7 +11,7 @@ indicator: messaging
 
 ### Use Skill Filters to ensure the right customer issues are routed correctly
 
-fdsa
+Are your customer intents being handled by the proper skills? Filter by skill to see which consumer intents are being recorded in a specific skill. 
 
 ### Discover customer issues in real time
 
